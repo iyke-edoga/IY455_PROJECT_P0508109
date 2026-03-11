@@ -1,0 +1,38 @@
+<style>
+</style>
+
+| Module Code        | IY455                                   |
+| ------------------ | --------------------------------------- |
+| Group              | B                                       |
+| Module Title       | Information Systems Analysis and Design |
+| Assessment Type    | Coursework Stage 1                      |
+| Module Tutor Name  | Mustafa Gashim                          |
+| Student ID Number  | P508109                                 |
+| Date of Submission | 11/03/2026                              |
+
+☐ *I confirm that this assignment is my own work. Where I have referred to academic
+sources, I have provided in-text citations and included the sources in the
+final reference list.*
+
+ ☐ *Where I have used AI, I have cited and
+referenced appropriately.*
+
+
+
+<style>
+</style>
+
+Task 1 –
+Data Base Normalisation – Upload to github (2 COMMITS)
+
+**1.1 What is
+normalisation? – use the libraries to get more info and reference**
+
+Normalisation is a systematic Process of organising a regional database’s
+attributes and tables in order to reduce data redundancy and improve
+data integrity. Normalisation involves decomposing a table into smaller less redundant tables without losing information and defining between those tables.
+
+The process proceeds through a series of progressive stages
+called normal forms. Each normal form addresses a specific type of anomaly or redundancy.
+The three most applied normal forms in practice are First form, Second Normal
+form and Third Normal form.
